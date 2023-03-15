@@ -4,8 +4,4 @@ const messages = [
     'would you like to get a bite later'
 ];
 
-// const sweetMessages = [
-//     'how are you doing, sweetie?',
-//     'what are you up to, sweetie?',
-//     'would you like to get a bite later, sweetie?',
-// ];
+const sweetMessages = `${messages[0]}, sweetie?`;
